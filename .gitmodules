@@ -1,3 +1,6 @@
 [submodule "cassandra"]
 	path = cassandra
 	url = git://github.com/gbatalski/cassandra-cookbook.git
+[submodule "java"]
+	path = java
+	url = git://github.com/opscode-cookbooks/java.git
