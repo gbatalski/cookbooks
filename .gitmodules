@@ -1,5 +1,5 @@
 [submodule "cassandra"]
-	path = cassandra
+	path = cassandra-old
 	url = git://github.com/gbatalski/cassandra-cookbook.git
 [submodule "java"]
 	path = java
@@ -8,5 +8,5 @@
 	path = runit
 	url = git://github.com/opscode-cookbooks/runit.git
 [submodule "cassandra-1"]
-	path = cassandra-1
+	path = cassandra
 	url = git://github.com/gbatalski/cassandra-cookbook-1.git
