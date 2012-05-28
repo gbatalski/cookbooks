@@ -7,3 +7,6 @@
 [submodule "runit"]
 	path = runit
 	url = git://github.com/opscode-cookbooks/runit.git
+[submodule "cassandra-1"]
+	path = cassandra-1
+	url = git://github.com/gbatalski/cassandra-cookbook-1.git
